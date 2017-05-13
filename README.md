@@ -1,6 +1,6 @@
 # vue-task-javascript-dev-position-may-2017
 
-###Vue.JS Task for Developers applying for the position of Javascript Developer
+### Vue.JS Task for Developers applying for the position of Javascript Developer
 
 >We love people who like learning new things and thinking in the abstract. This task (hopefully) helps you discover and few new services and help illustrate some of your front end skills to us.
 
